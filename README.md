@@ -35,3 +35,6 @@ CoreDataStack.swift: Toda la configuración, métodos necesarios para persistir 
 # EL PRINCIPIO DE RESPONSABILIDAD ÚNICA.
 Basicamente consiste en que un objeto debe solamente realizar una sola cosa. 
 
+# CÓDIGO LIMPIO.
+Un código limpio es aquel código que es bien entendido por cualquier desarrollador, es decir no solo debemos escribirle órdenes al programa, sino también debemos hacerlo lo suficientemente legible para otros desarrolladores, por otra parte los comentarios dentro del código deben existir, ya que esto ayuda mas a que el desarrollador sepa para que sirve cada cosa, aunque... las definiciones de métodos, variables, etc deberían ser muy claras. Finalmente tener las clases separadas y que cada clase haga una sola cosa para evitar controllers muy pesados y poco legibles.
+
